@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="soundtouch::InterpolateShannon" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACAAAAAgAAAAQAABAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpolateShannon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::InterpolateLinearInteger" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACAAAgAAEAQAEBAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>InterpolateLinear.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::InterpolateLinearFloat" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACAAAAAgAAAAQAABAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpolateLinear.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::FIRFilter" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAAAAEAAAABNAAAQAAICIAAAAEAAEAIAAAAAA=</HashCode>
+      <FileName>FIRFilter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::FIRFilterMMX" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABAAAAAABAAAIAAAIAAEAAAAAAAA=</HashCode>
+      <FileName>FIRFilter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::FIRFilterSSE" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAADABAAAABABAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>FIRFilter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::TDStretch" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BGAAAEUAAGQJWIVEIBIU4RMAiAYASUCFAAAYCoMEBJA=</HashCode>
+      <FileName>TDStretch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::TDStretchMMX" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAQAAAAAAAAAABAAAAAIAAAAA=</HashCode>
+      <FileName>TDStretch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::TDStretchSSE" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TDStretch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::TransposerBase" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAEAAAIQBgAAEAQAABAAAACIAAAAACAAAAAAAACA=</HashCode>
+      <FileName>RateTransposer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::RateTransposer" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgABAAAAiAJAMAEAAAAAAAAAACAAWAAAAAAAiMAQAA=</HashCode>
+      <FileName>RateTransposer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::PeakFinder" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAgAAEACAAAAAAACAAAIAAAAAAAACAAAAAGA=</HashCode>
+      <FileName>PeakFinder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::InterpolateCubic" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAACAAAAAgAAAAQAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpolateCubic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soundtouch::AAFilter" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAEAAAACEAAAAAAAAIAgEQAAAAAAAAEBAA=</HashCode>
+      <FileName>AAFilter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

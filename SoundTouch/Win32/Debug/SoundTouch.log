@@ -1,0 +1,17 @@
+﻿  AAFilter.cpp
+  cpu_detect_x86.cpp
+  FIFOSampleBuffer.cpp
+  FIRFilter.cpp
+  InterpolateCubic.cpp
+  InterpolateLinear.cpp
+  InterpolateShannon.cpp
+  mmx_optimized.cpp
+  PeakFinder.cpp
+e:\soundtouch\soundtouch3\soundtouch\peakfinder.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  RateTransposer.cpp
+  SoundTouch.cpp
+  sse_optimized.cpp
+  TDStretch.cpp
+  正在生成代码...
+  BPMDetect.cpp
+  SoundTouch.vcxproj -> E:\soundtouch\soundtouch3\SoundTouch\Win32\Debug\SoundTouchD.lib
